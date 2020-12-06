@@ -1,0 +1,39 @@
+h1 {
+    font-size: 18pt;
+    margin: 20px 0px;
+}
+
+label {
+    font-weight: bolder;
+}
+
+.green {
+    color: green;
+}
+
+.white:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.margin-bottom {
+    margin-bottom: 20px;
+}
+
+.coluna-tabela {
+    width: 500px;
+}
+
+.gray {
+    border: 1px solid rgba(0,0,0,.5);
+}
+
+.th-first {
+    text-align: right;
+    width: 20%;
+}
+
+.sair {
+    color: red;
+}
+
